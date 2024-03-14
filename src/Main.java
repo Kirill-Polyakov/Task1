@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        Bank schet = new Bank();
+        schet.licSchet();
+    }
+}
